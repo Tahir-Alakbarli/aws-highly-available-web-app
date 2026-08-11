@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project demonstrates a highly available web application deployed across multiple AWS Availability Zones using Amazon EC2, EC2 Auto Scaling, an Application Load Balancer, Amazon S3, CloudWatch, IAM and custom VPC networking
+This project demonstrates a highly available web application deployed across multiple AWS Availability Zones using Amazon EC2, EC2 Auto Scaling, an Application Load Balancer, Amazon S3, CloudWatch, IAM and custom VPC networking.
 
 The frontend is a modified version of the website I used in my previous **S3 Static Website** and **Serverless Image Upload** projects. Reusing the same design helped me to focus on changing the underlying infrastructure instead of creating another frontend from scratch.
 
