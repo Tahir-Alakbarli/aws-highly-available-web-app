@@ -1,6 +1,6 @@
 # Highly Available Web Application on AWS
 
-## Project Overvie
+## Project Overview
 
 This project demonstrates a highly available web application deployed across multiple AWS Availability Zones using Amazon EC2, EC2 Auto Scaling, an Application Load Balancer, Amazon S3, CloudWatch, IAM and custom VPC networking.
 
